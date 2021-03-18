@@ -1,0 +1,23 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomppk/typescript-maps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomppk/typescript-maps/issues"
+  },
+  "homepage": "https://github.com/tomppk/typescript-maps#readme",
+  "dependencies": {
+    "@types/faker": "^5.1.7",
+    "faker": "^5.4.0"
+  }
+}
